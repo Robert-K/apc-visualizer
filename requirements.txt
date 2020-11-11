@@ -1,0 +1,4 @@
+soundcard
+numpy
+mido
+time

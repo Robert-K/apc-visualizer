@@ -1,0 +1,7 @@
+soundcard
+numpy
+mido
+time
+pywin32
+ctypes
+comtypes
