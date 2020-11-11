@@ -1,6 +1,7 @@
 import soundcard as sc
 import numpy as np
 import mido
+import mido.backends.rtmidi
 from time import sleep
 
 # -------- APC20 velocity to color mappings --------
